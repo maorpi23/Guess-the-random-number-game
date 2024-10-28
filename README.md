@@ -5,11 +5,11 @@
 ### Features
 - Generates a random secret number between 1 and 20 each game.
 - User feedback for guesses:
-      - **"Too high"** or **"Too low"** if the guess is incorrect.
-      - **"Correct Number!"** if the guess is right.
+     - **"Too high"** or **"Too low"** if the guess is incorrect.
+     - **"Correct Number!"** if the guess is right.
 - Score tracking:
-      - Starts with a score of 20, decreasing by 1 with each incorrect guess.
-      - Tracks the highest score achieved across game sessions.
+     - Starts with a score of 20, decreasing by 1 with each incorrect guess.
+     - Tracks the highest score achieved across game sessions.
 - Play Again option to reset the game without refreshing the page.
 
 ### Technologies Used
